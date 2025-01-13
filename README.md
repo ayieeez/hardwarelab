@@ -211,8 +211,3 @@ This project is a starting point for a Flutter application that focuses on acces
 ### Running the Application
 
 - Ensure to run the application on an Android Virtual Device (AVD) or a physical smartphone.
-
-### Video and Code Uploads
-
-1. **YouTube Video**: Upload the speed code video to YouTube and place the link in the GitHub repository with step-by-step information.
-2. **GitHub Repository**: Upload the complete codebase to GitHub.
