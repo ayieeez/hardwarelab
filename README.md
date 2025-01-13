@@ -1,4 +1,4 @@
-# hardwarelab
+# HardwareLab
 
 A new Flutter project for accessing various hardware functionalities.
 
@@ -216,8 +216,3 @@ This project is a starting point for a Flutter application that focuses on acces
 
 1. **YouTube Video**: Upload the speed code video to YouTube and place the link in the GitHub repository with step-by-step information.
 2. **GitHub Repository**: Upload the complete codebase to GitHub.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
