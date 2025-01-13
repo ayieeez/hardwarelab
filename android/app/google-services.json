@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827129271732",
+    "project_id": "flutter-db-929a3",
+    "storage_bucket": "flutter-db-929a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827129271732:android:57846313cee089a7230ee1",
+        "android_client_info": {
+          "package_name": "com.example.hardwarelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZSLddRxRIAe3KKl9_0xEPs_7IknlcNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
