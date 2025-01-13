@@ -1,4 +1,3 @@
-```markdown
 # hardwarelab
 
 A new Flutter project for accessing various hardware functionalities.
